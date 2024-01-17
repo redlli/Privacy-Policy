@@ -1,2 +1,3 @@
-We dont store you data 
 # Privacy-Policy
+
+"Your privacy is our utmost priority. We, JA llc, are committed to respecting and protecting your data. We want to assure you that we do not store any of your personal data on our servers. All the information required for the functioning of our apps and games is stored exclusively on your device. We do not access this information unless it is necessary for providing you with our services and improving your user experience. We adhere strictly to this policy to ensure your data remains secure and private. By using our apps and games, you can rest assured that your privacy is respected and your data is safe. Thank you for trusting us with your digital experience. Your trust is important to us, and we are committed to preserving it."
